@@ -4,8 +4,6 @@ A categorized catalogue of Hindi and Indian stories, books, audiobooks, podcasts
 
 **Total named entries:** 414
 
-> **Sharing note:** This catalogue is written in English for international readers. You may share this catalogue in Telegram channels or live broadcasts. Please share the catalogue link, follow each platform's terms, and do not copy or redistribute third-party media.
-
 ## Disclaimer
 
 This catalogue is an informational directory of third-party titles and links. Platform availability, pricing, regional access, ratings, titles, episode counts, runtimes, and links may change.
